@@ -6,3 +6,5 @@ A simple logging class in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `logger.py`
+
+*Initialized by willlliammmoooliiiver workspace automation.*
